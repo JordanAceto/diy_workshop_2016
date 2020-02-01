@@ -1,3 +1,5 @@
+# IMPORTANT NOTE: These workshop materials are out of date! Please use these materials instead: [UPDATED 2020 WORKSHOP MATERIALS](https://github.com/JordanAceto/DIY_Synth_Workshop_2020 "2020 Workshop")
+
 
 Documents relating to a DIY synthesizer workshop put on in 2016 by Trevor Pinch and Jordan Aceto.
 
